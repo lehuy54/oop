@@ -1,0 +1,14 @@
+Using Bubble Sort Algorithm:
+Before sorting: [7, 7]
+After sorting: [7, 7]
+Number of swap: 0
+
+Using Selection Sort Algorithm:
+Before sorting: [7, 7]
+After sorting: [7, 7]
+Number of swap: 0
+
+Using Insertion Sort Algorithm:
+Before sorting: [7, 7]
+After sorting: [7, 7]
+Number of swap: 1
