@@ -1,0 +1,16 @@
+[80 15 15 14 85]
+Using Bubble Sort Algorithm:
+Before sorting: [80 15 15 14 85]
+After sorting: 
+[14 15 15 80 85]
+number of swap: 0
+Using Bubble Sort Algorithm:
+Before sorting: [14 15 15 80 85]
+After sorting: 
+[14 15 15 80 85]
+number of swap: 4
+Using Insert Sort Algorithm:
+Before sorting: [14 15 15 80 85]
+After sorting: 
+[14 15 15 80 85]
+number of swap: 0
